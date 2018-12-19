@@ -14,4 +14,8 @@ Functionalities provided by the system are as follows:
 6.	A tenant can also avail the facility of checking his/her compatibility with the future roommate.
 
 Also, we promise to fulfil your basic housing needs like providing bed, mattress, hygienic living conditions, clean drinking water, 24*7 power backup, and above all, stress free life.
+
+
 Language: PHP, Java Script, HTML, CSS and MySQL.
+
+To Use: Please run the project.sql file first to create database.
